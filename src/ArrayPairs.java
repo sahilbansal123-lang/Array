@@ -9,7 +9,7 @@ public class ArrayPairs {
             }
             System.out.println();
         }
-        System.out.println("tota pairs = " + tp);
+        System.out.println("total pairs = " + tp);
     }
 
     public static void main(String[] args) {
