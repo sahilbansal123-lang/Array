@@ -17,6 +17,12 @@ public class SubArray {
         }
     }
 
+    // Maximum subarray sum
+
+    public static void maxSubArraySum(int arr[]){
+
+    }
+
     public static void main(String[] args) {
         int arr[] = {2, 4, 6, 8, 10};
         subArray(arr);
