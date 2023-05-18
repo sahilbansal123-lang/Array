@@ -1,3 +1,5 @@
+package arrays;
+
 public class BuyAndSellStock {
 
     public static int bestTime(int[] prices){

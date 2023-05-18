@@ -1,3 +1,5 @@
+package arrays;
+
 public class ArrayPairs {
 
     public static void arrayPair(int arr[]){

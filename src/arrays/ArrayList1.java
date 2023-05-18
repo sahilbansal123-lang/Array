@@ -1,4 +1,4 @@
-
+package arrays;
 //            ArrayList: class is a resizable array, which can be found in the java.util package.
 
 import java.util.ArrayList;

@@ -1,3 +1,5 @@
+package arrays;
+
 public class SubArray {
 
 //---------------------------------------------------------------------------------------------------------------------
@@ -39,7 +41,7 @@ public class SubArray {
 //                }
 //            }
 //        }
-//        System.out.println("Max Sub Array Sum = " + maxSum);
+//        System.out.println("Max Sub arrays.Array Sum = " + maxSum);
 //    }
 
 //    ------------------------------------------------------------------------------------------------------------------
@@ -64,7 +66,7 @@ public class SubArray {
 //                }
 //            }
 //        }
-//        System.out.println("Max Sub Array Sum = " + maxSum);
+//        System.out.println("Max Sub arrays.Array Sum = " + maxSum);
 //    }
 
 //    -----------------------------------------------------------------------------------------------------------------
@@ -81,12 +83,12 @@ public class SubArray {
             }
             maxSum = Math.max(currSum, maxSum);
         }
-        System.out.println("Max Sub Array Sum is : " + maxSum);
+        System.out.println("Max Sub arrays.Array Sum is : " + maxSum);
     }
 
 
     public static void main(String[] args) {
-        int[] arr = {-2, -3, 4, -1, -2, 1, 5, -3};
+        int[] arr = {-1};
 //        subArray(arr);
         maxSubArraySum(arr);
     }

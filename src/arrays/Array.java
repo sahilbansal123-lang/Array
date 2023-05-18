@@ -1,9 +1,11 @@
+package arrays;
+
 import java.util.Scanner;
 
 public class Array {
     public static void main(String[] args) {
 
-//        Array: List of items of the same types
+//        arrays.Array: List of items of the same types
 //        syntax: type[] arrayName = new type[size];
 //                        or
 //        syntax: type[] arrayName = {1,2,3,4,5};
